@@ -2,8 +2,7 @@
 
 ![Test Image 4](https://github.com/adsalihac/Screenshots/blob/master/ToDoList-Express-EJS-Mongoose/ToDoList-Express-EJS-Mongoose.JPG)
 
-Download this project.
-After setup [Node.js](https://nodejs.org/en/) and [mongodb](https://www.mongodb.com/download-center/community) 
+## Setup [Node.js](https://nodejs.org/en/) and [mongodb](https://www.mongodb.com/download-center/community) 
 
 open project directory in terminal.
 ```bash
