@@ -1,6 +1,6 @@
 # ToDoList-Express-EJS-Mongoose
 
-![Test Image 4](https://github.com/adsalihac/Screenshots/blob/master/ToDoList-Express-EJS-Mongoose/ToDoList-Express-EJS-Mongoose.JPG)
+![ToDoList-Express-EJS-Mongoose Screenshot](https://github.com/adsalihac/Screenshots/blob/master/ToDoList-Express-EJS-Mongoose/ToDoList-Express-EJS-Mongoose.JPG)
 
 ## Setup [Node.js](https://nodejs.org/en/) and [mongodb](https://www.mongodb.com/download-center/community) 
 
